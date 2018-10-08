@@ -5,4 +5,4 @@ Python script that resizes jpg images in a directory using PIL
 Pillow: pip install Pillow</br>
 
 # Usage:
-python resizeImages.py -s mySourceDirectory -w imageWidth -l imageHeight -d myOutputDirectory[default ./output]
+python resizeImages.py -s mySourceDirectory -w imageWidth -l imageHeight -d myOutputDirectory
